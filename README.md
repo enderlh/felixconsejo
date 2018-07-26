@@ -1,5 +1,5 @@
 <h1>felixconsejo</h1>
-<h2>Automtiza el envío de frases populares (o lo que quieras) con este script</h2>
+<h3>Automtiza el envío de frases populares (o lo que quieras) con este script</h3>
 *Escrito en Python3.6*
 
 Con **felixconsejo** puedes tener una lista de frases populares y enviarla por correo a una lista de destinatarios.
