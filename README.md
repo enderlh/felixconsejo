@@ -12,7 +12,8 @@ Si solo lo vas a enviar a un destinatario, puedes dejar comentado esa línea.
 
 Usa ```crontab - e``` en Linux para programar la ejecución automática del script:
 
-```un@muggle:~/cron$ crontab -e
+```
+un@muggle:~/cron$ crontab -e
 # Edit this file to introduce tasks to be run by cron.
 
 01 09 * * 1-5 /usr/bin/python3.6 /home/usuario/directorio/felixconsejo.sh
